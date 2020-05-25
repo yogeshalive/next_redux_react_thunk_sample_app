@@ -1,7 +1,7 @@
 ## Features
 
 - Minimal but well structured
-- No CSS, only TypeScript
+- No CSS, only TypeScript and Styled Component
 - We can learn these stacks:
   - [next](https://npm.im/next)
   - [react](https://npm.im/react)
