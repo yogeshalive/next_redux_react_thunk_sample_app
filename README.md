@@ -14,7 +14,7 @@
 
 ```bash
 # installation
-$ git clone https://github.com/saltyshiomix/nextjs-todo-app.git
+$ git clone https://github.com/yogeshalive/next_redux_react_thunk_sample_app.git
 $ cd nextjs-todo-app
 $ yarn (or `npm install`)
 
