@@ -7,8 +7,7 @@
   - [react](https://npm.im/react)
   - [redux](https://npm.im/redux) and [react-redux](https://npm.im/react-redux)
   - [redux-thunk](https://npm.im/redux-thunk)
-  - [reselect](https://npm.im/reselect)
-  - [recompose](https://npm.im/recompose)
+  - [typescript](https://www.typescriptlang.org/)
 
 ## Usage
 
