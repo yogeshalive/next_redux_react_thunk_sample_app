@@ -15,7 +15,7 @@
 ```bash
 # installation
 $ git clone https://github.com/yogeshalive/next_redux_react_thunk_sample_app.git
-$ cd nextjs-todo-app
+$ cd next_redux_react_thunk_sample_app
 $ yarn (or `npm install`)
 
 # development mode
